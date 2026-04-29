@@ -1,42 +1,67 @@
-<h1 align="center">Hi 👋, I'm Shoumen Shomu</h1>
-<h3 align="center">A passionate Full-Stack Developer.</h3>
+<h1 align="center">Hi , I'm Shoumen Shomu</h1>
+<h3 align="center">I am a Front-End Developer from Bangladesh<br>Passionate about coding and problem-solving.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoumen-shomu&label=Profile%20views&color=0e75b6&style=flat" alt="shoumen-shomu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoumen-shomu" alt="shoumen-shomu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shoumenshomudev" target="blank"><img src="https://img.shields.io/twitter/follow/shoumenshomudev?logo=twitter&style=for-the-badge" alt="shoumenshomudev" /></a> </p>
-
-- 🔭 I’m currently working on [Orebi](https://orebi-blond.vercel.app/)
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **React**
-
-- 🤝 I’m looking for help with **E-commerce**
-
-- 👨‍💻 All of my projects are available at [https://github.com/shoumen-shomu](https://github.com/shoumen-shomu)
-
-- 📝 I regularly write articles on [dev.to](dev.to)
-
-- 💬 Ask me about **HTML, CSS, JS, Bootstrap, Tailwindcss**
-
-- 📫 How to reach me **shoumenshomu@gmail.com**
-
-- ⚡ Fun fact **I think semicolons deserve more respect.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shoumenshomudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shoumenshomudev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shoumenshomu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoumenbiswas/" height="30" width="40" /></a>
-<a href="https://fb.com/shoumenshomudev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shoumenshomudev/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sijan666&label=Profile%20views&color=0e75b6&style=flat" alt="sijan666" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoumen-shomu&show_icons=true&locale=en&layout=compact" alt="shoumen-shomu" /></p>
+-  I’m currently working on **[Creative Web & Software](https://github.com/shoumen-shomu/creativeWeb)**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoumen-shomu&show_icons=true&locale=en" alt="shoumen-shomu" /></p>
+-  I’m currently learning **Next JS**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoumen-shomu&" alt="shoumen-shomu" /></p>
+-  I’m looking to collaborate on **NextJS Projects**
+
+-  I’m looking for help with **e-Commerce Solutions**
+
+-  All of my projects are available at **https://github.com/shoumen-shomu**
+
+-  Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, ReactJS, React Native, NextJS**
+
+-  How to reach me: **shoumenshomu@gmail.com**
+
+-  Fun fact: **I can turn anything into code**
+
+---
+
+<!-- <h3 align="center">🌐 Connect with me</h3>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <a href="https://fb.com/shoumenshomudev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shoumenshomudev" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/shoumenshomu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shoumenshomu" height="30" width="40" />
+  </a>
+  <a href="https://x.com/Shoumenshomudev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Shoumenshomudev" height="30" width="40" />
+  </a>
+  
+</div> -->
+
+---
+
+<h3 align="center">💻 Languages and Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,git,vscode,figma,bootstrap,photoshop,nextjs&theme=dark" />
+</p>
+
+---
+<div align="center">
+  <a href="https://github.com/shoumen-shomu">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoumen-shomu&theme=react-dark" alt="shoumen-shomu Activity Graph" />
+  </a>
+</div>
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=shoumen-shomu&theme=dark&hide_border=false" alt="shoumen-shomu Streak" /> -->
+  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shoumen-shomu&theme=dark&hide_border=false" alt="GitHub Streak" /></a> -->
+  <!-- <img src="https://streak-stats.demolab.com?user=shoumen-shomu&theme=default&theme=dark&hide_border=false" alt="shoumen-shomu's GitHub Stats" /> -->
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shoumen-shomu&theme=dark" alt="GitHub Stats"> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shoumen-shomu&theme=github_dark" alt="GitHub Stats">
+</div>
+
+
+
+
+
