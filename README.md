@@ -2,7 +2,7 @@
 <h3 align="center">I am a Front-End Developer from Bangladesh<br>Passionate about coding and problem-solving.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sijan666&label=Profile%20views&color=0e75b6&style=flat" alt="sijan666" />
+  <img src="https://komarev.com/ghpvc/?username=shoumen-shomu&label=Profile%20views&color=0e75b6&style=flat" alt="sijan666" />
 </p>
 
 ---
